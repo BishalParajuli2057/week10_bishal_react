@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" errors="0" time="1.496">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2026-01-03T18:35:24" time="0.945" tests="1">
+    <testcase classname=" About page uses useEffect" name=" About page uses useEffect" time="0.017">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2026-01-03T18:35:24" time="0.946" tests="1">
+    <testcase classname=" renders grid-container and grid-items with h3 and p elements" name=" renders grid-container and grid-items with h3 and p elements" time="0.019">
+    </testcase>
+  </testsuite>
+  <testsuite name="App component routing" errors="0" failures="0" skipped="0" timestamp="2026-01-03T18:35:24" time="0.956" tests="2">
+    <testcase classname="App component routing Should render page header and HomePage on default route" name="App component routing Should render page header and HomePage on default route" time="0.015">
+    </testcase>
+    <testcase classname="App component routing Should render page header and AboutPage in /about route" name="App component routing Should render page header and AboutPage in /about route" time="0.002">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2026-01-03T18:35:24" time="0.975" tests="1">
+    <testcase classname=" increases visible items on button click" name=" increases visible items on button click" time="0.047">
+    </testcase>
+  </testsuite>
+</testsuites>
